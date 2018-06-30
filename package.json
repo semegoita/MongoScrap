@@ -9,20 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Meggin/news-scraper.git"
+    "url": "git+https://github.com/semegoita/MongoScrap"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Meggin/news-scraper/issues"
+    "url": "https://github.com/semegoita/MongoScrap/issues"
   },
-  "homepage": "https://github.com/Meggin/news-scraper#readme",
   "dependencies": {
     "body-parser": "^1.17.2",
     "cheerio": "^1.0.0-rc.1",
     "express": "^4.15.3",
     "express-handlebars": "^3.0.0",
-    "mongoose": "^4.10.4",
+    "mongoose": "^4.13.14",
     "morgan": "^1.8.2",
     "request": "^2.81.0"
   }
